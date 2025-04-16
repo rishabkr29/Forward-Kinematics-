@@ -1,8 +1,8 @@
 # Forward-Kinematics
 
-The robot has four links, each connected using a revolute pair ( like a door hinge)
-The axis of each joint is perpendicular to the previous joint. 
-The lengths of the links -’ L’ is 1m each.
+1. The robot has four links, each connected using a revolute pair ( like a door hinge)
+2. The axis of each joint is perpendicular to the previous joint. 
+3. The lengths of the links -’ L’ is 1m each.
 
 
 
