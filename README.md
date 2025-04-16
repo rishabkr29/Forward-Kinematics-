@@ -24,8 +24,5 @@ To compute the end-effector position:
 [ x ] [ 0 ] [ y ] = T · [ 0 ] [ z ] [ 0 ] [ 1 ] [ 1 ]
 
 Then extract the final `(x, y, z)` position from the resulting vector.
-
-```markdown
-$$ T = T_1 \cdot T_2 \cdot T_3 \cdot T_4 $$
-
+ T = T_1 . T_2 . T_3 . T_4 
 
